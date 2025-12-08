@@ -27,6 +27,7 @@ Este projeto foi desenvolvido com foco em ser semelhante a ferramentas como o Li
   - Flexbox para layouts fluidos e alinhamentos precisos.
   - Box Model & Posicionamento.
   - Media Queries para adaptação total a qualquer tipo de dispositivo.
+  - Animação.
 - **JavaScript (ES6+):** Manipulação da DOM para a lógica do "Theme Switcher" (Troca de Tema Claro/Escuro).
 - **Git & GitHub:** Versionamento de código e deploy via GitHub Pages.
 - **Figma**

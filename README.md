@@ -10,6 +10,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -27,6 +28,8 @@ Este projeto foi desenvolvido com foco em ser semelhante a ferramentas como o Li
   - Box Model & Posicionamento.
   - Media Queries para adaptação total a qualquer tipo de dispositivo.
 - **JavaScript (ES6+):** Manipulação da DOM para a lógica do "Theme Switcher" (Troca de Tema Claro/Escuro).
+- **Git & GitHub:** Versionamento de código e deploy via GitHub Pages.
+- **Figma**
 
 ## 💻 O Projeto
 
@@ -39,8 +42,13 @@ O **DevLinks** é um hub central para portfólio e redes sociais. Esta solução
 
 ## 🔖 Layout
 
+Você pode visualizar o layout do projeto atráves [DESSE LINK](https://www.figma.com/community/file/1187422022288947321).
 Você pode visualizar o projeto rodando aqui: **[COLOQUE O LINK DO SEU GITHUB PAGES AQUI]**
 
-O layout foi desenhado para garantir que a experiência seja perfeita em qualquer dispositivo.
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
 
 Feito com ♥ por [AlissonFA](https://www.linkedin.com/in/alissonfa/)

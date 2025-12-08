@@ -44,7 +44,7 @@ O **DevLinks** é um hub central para portfólio e redes sociais. Esta solução
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto atráves [DESSE LINK](https://www.figma.com/community/file/1187422022288947321).
-Você pode visualizar o projeto rodando aqui: **[COLOQUE O LINK DO SEU GITHUB PAGES AQUI]**
+Você pode visualizar o projeto rodando aqui: https://alissonfa.github.io/DevLinks/
 
 ## 📝 Licença
 
